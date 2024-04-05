@@ -22,7 +22,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '吕静',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oGDHb6KBawnVlvGQTUXqYcwx8Loc',
+      id: 'oGDHb6P65Q65J0NqzY2MqQpbuZVQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '	cn0tfGybQjoTTZAW6qZ4x4Sfewo6F_y9LDATDGUppoo',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
