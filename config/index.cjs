@@ -14,7 +14,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'e20715a27f27b7a045be88a51dcb13ee',
 
-  PROVINCE: '河北',
+  PROVINCE: '河北省',
   CITY: '沧州',
 
   USERS: [
